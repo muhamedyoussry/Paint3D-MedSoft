@@ -1,0 +1,3 @@
+G:/MedSoft/Training/FinalProject/build/CMakeFiles/FinalProject.dir
+G:/MedSoft/Training/FinalProject/build/CMakeFiles/ALL_BUILD.dir
+G:/MedSoft/Training/FinalProject/build/CMakeFiles/ZERO_CHECK.dir

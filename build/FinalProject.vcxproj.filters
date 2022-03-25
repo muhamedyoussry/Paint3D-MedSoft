@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\MedSoft\Training\FinalProject\src\about.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\MedSoft\Training\FinalProject\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\MedSoft\Training\FinalProject\src\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\include\about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\include\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_Debug\forms\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_Debug\forms\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_Release\forms\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_Release\forms\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_MinSizeRel\forms\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_MinSizeRel\forms\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_RelWithDebInfo\forms\ui_about.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\include_RelWithDebInfo\forms\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\MedSoft\Training\FinalProject\build\CMakeFiles\17c45205fee65e5a99dbed3831f59ac9\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\MedSoft\Training\FinalProject\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\MedSoft\Training\FinalProject\forms\about.ui" />
+    <None Include="G:\MedSoft\Training\FinalProject\forms\mainwindow.ui" />
+    <None Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\autouic_Debug.stamp" />
+    <None Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\autouic_Release.stamp" />
+    <None Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="G:\MedSoft\Training\FinalProject\build\FinalProject_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9DB19655-3467-3842-BCB0-E2FFAFE8D97D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E3BCE84A-3A04-3376-B0A4-FCA13CD198DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{912F05A9-EAA6-38FB-916F-D5558535DB4B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

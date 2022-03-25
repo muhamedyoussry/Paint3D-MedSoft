@@ -1,0 +1,5 @@
+﻿  Automatic MOC and UIC for target FinalProject
+  mainwindow.cpp
+G:\MedSoft\Software\VTK-9.1.0\include\vtk-9.1\vtkGenericOpenGLRenderWindow.h(172): warning C4996: 'vtkRenderWindow::IsDrawable': Deprecated in 9.1 because no one knows what it's for and nothing uses it
+  g:\medsoft\software\vtk-9.1.0\include\vtk-9.1\vtkRenderWindow.h(667): note: see declaration of 'vtkRenderWindow::IsDrawable'
+  FinalProject.vcxproj -> G:\MedSoft\Training\FinalProject\build\Release\FinalProject.exe
